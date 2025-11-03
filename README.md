@@ -1,6 +1,6 @@
 # Case Tech | Genial Investimentos - Programa de Estágio de Férias 2026
 
-Este repositório contém o projeto Motor de Validação de Suitability de Carteira (CVM 30) desenvolvido utilizando Python. Neste arquivo README, você encontrará o que esse motor de validação faz com suas especifidades
+Este repositório contém o projeto Motor de Validação de Suitability de Carteira (CVM 30) desenvolvido utilizando Python. Neste arquivo README, você encontrará o que esse motor de validação faz, mais suas especifidades
 
 ---
 ## Estrutura do json dos clientes
@@ -36,7 +36,7 @@ obs: regras de verificação com base no pdf do case
 
 ## Funcionalidade
 
-Com base nas informações de cada cliente (estrutura json dos clientes), o motor verifica se o pedido de aquisição de novo ativo (nova_ordem) para a carteira já existente infrigirá as Regras de Validação
+Com base nas informações de cada cliente (estrutura json dos clientes), o motor verifica se o pedido de aquisição de novo ativo (nova_ordem), para a carteira já existente, infrigirá as Regras de Validação
 
 ## Estrutura de Saída após rodar a aplicação
 
@@ -56,7 +56,7 @@ Com base nas informações de cada cliente (estrutura json dos clientes), o moto
 
 Considerações: 
 - Os arquivos "exemplos.json, exemplos_test0.json e exemplos_test1.json" foram gerados por inteligência artificial
-- Para testar o seu próprio arquivo json de clientes, você deve garantir que o mesmo obedeça à estrutura aqui especificada, e renomear seu arquivo com o nome "exemplos.json" e substituir ele na pasta source
+- Para testar o seu próprio arquivo .json de clientes, você deve garantir que este obedeça à estrutura aqui especificada, renomear seu arquivo com o nome "exemplos.json" e, por fim, colocá-lo na pasta source
 
 ---
 
